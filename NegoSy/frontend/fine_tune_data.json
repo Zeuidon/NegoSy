@@ -1,0 +1,434 @@
+[
+    {
+        "Laptop": [
+            {
+                "User": "Hi there! I'm looking to buy a new laptop.",
+                "AI Chatbot": "Hello! We have a great selection of laptops available. What specifications are you looking for?"
+            },
+            {
+                "User": "I need a powerful laptop for gaming and video editing.",
+                "AI Chatbot": "Certainly! Our gaming and multimedia laptops are equipped with powerful processors and dedicated graphics cards. The minimum price for such laptops is 60,000 INR, with listed prices starting from 80,000 INR."
+            },
+            {
+                "User": "Hmm, that's a bit expensive for me. Can you offer any discounts?",
+                "AI Chatbot": "Absolutely! I can offer you a discount of 10% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds reasonable. Does it come with a warranty?",
+                "AI Chatbot": "Yes, all our laptops come with a standard one-year warranty for hardware issues. We also offer extended warranty options for additional peace of mind."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Wonderful! Let me process your order with the discounted price of 72,000 INR, including the warranty. Thank you for choosing us!"
+            }
+        ]
+    },
+    {
+        "Desk": [
+            {
+                "User": "Hi! I'm interested in buying a desk for my home office.",
+                "AI Chatbot": "Hello! We have a variety of desks available, ranging from compact study desks to spacious workstations. What size and style are you looking for?"
+            },
+            {
+                "User": "I need a large L-shaped desk with plenty of storage space.",
+                "AI Chatbot": "Excellent choice! Our L-shaped desks with ample storage options are perfect for home offices. The minimum price for such desks is 25,000 INR, with listed prices starting from 40,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is a bit high. Can you provide any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 15% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That's more reasonable. Does it come with assembly instructions?",
+                "AI Chatbot": "Yes, all our desks come with detailed assembly instructions for easy setup. Our customer support team is also available to assist you if needed."
+            },
+            {
+                "User": "Great! I'll proceed with the purchase.",
+                "AI Chatbot": "Wonderful! Let me process your order with the discounted price of 34,000 INR. Thank you for choosing us for your home office furniture needs!"
+            }
+        ]
+    },
+    {
+        "Bed": [
+            {
+                "User": "Hello! I'm in need of a new bed for my bedroom.",
+                "AI Chatbot": "Hi there! We have a wide selection of beds available, ranging from single beds to king-size beds. What size and style are you looking for?"
+            },
+            {
+                "User": "I'm looking for a queen-size bed with a modern design.",
+                "AI Chatbot": "Great choice! Our queen-size beds with modern designs are quite popular. The minimum price for such beds is 40,000 INR, with listed prices starting from 60,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is a bit steep. Can you offer any discounts?",
+                "AI Chatbot": "Absolutely! I can offer you a discount of 20% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds like a good deal. Does it come with a mattress?",
+                "AI Chatbot": "Yes, our beds come with the option to include a mattress at an additional cost. We have a variety of mattress options available to suit your comfort preferences."
+            },
+            {
+                "User": "Great! I'm ready to make the purchase.",
+                "AI Chatbot": "Fantastic! Let me process your order with the discounted price of 48,000 INR for the bed. Thank you for choosing us!"
+            }
+        ]
+    },
+    {
+        "Bottle": [
+            {
+                "User": "Hi! I'm looking for a reusable water bottle.",
+                "AI Chatbot": "Hello! We have a variety of reusable water bottles available. What size and material are you interested in?"
+            },
+            {
+                "User": "I need a stainless steel water bottle with a capacity of at least 1 liter.",
+                "AI Chatbot": "Certainly! Our stainless steel water bottles are durable and come in various sizes. The minimum price for such bottles is 500 INR, with listed prices starting from 800 INR."
+            },
+            {
+                "User": "Hmm, the listed price seems a bit high. Can you offer any discounts?",
+                "AI Chatbot": "Absolutely! I can offer you a discount of 10% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That's more reasonable. Is the bottle leak-proof?",
+                "AI Chatbot": "Yes, our water bottles are designed to be leak-proof and are suitable for everyday use. You can carry them with confidence wherever you go."
+            },
+            {
+                "User": "Great! I'll go ahead and purchase one.",
+                "AI Chatbot": "Wonderful! Let me process your order with the discounted price of 720 INR. Thank you for choosing us for your reusable water bottle needs!"
+            }
+        ]
+    },
+    {
+        "Headphones": [
+            {
+                "User": "Hi! I'm interested in buying a new pair of headphones.",
+                "AI Chatbot": "Hello! We have a wide selection of headphones available, ranging from wired to wireless options. What features are you looking for?"
+            },
+            {
+                "User": "I need wireless headphones with noise-cancellation features.",
+                "AI Chatbot": "Excellent choice! Our wireless headphones with noise-cancellation technology provide immersive audio experiences. The minimum price for such headphones is 3,000 INR, with listed prices starting from 5,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is a bit high for my budget. Can you offer any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 20% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds like a good deal. Are they compatible with my smartphone?",
+                "AI Chatbot": "Yes, our headphones are compatible with most smartphones and devices that support Bluetooth connectivity. You can enjoy wireless freedom with ease."
+            },
+            {
+                "User": "Great! I'll proceed with the purchase.",
+                "AI Chatbot": "Fantastic! Let me process your order with the discounted price of 4,000 INR. Thank you for choosing us for your headphone needs!"
+            }
+        ]
+    },
+    {
+        "Clock": [
+            {
+                "User": "Hi! I'm looking for a new wall clock for my living room.",
+                "AI Chatbot": "Hello! We have a variety of wall clocks available, ranging from classic to modern designs. What style and size are you interested in?"
+            },
+            {
+                "User": "I need a large wall clock with a minimalist design.",
+                "AI Chatbot": "Great choice! Our large wall clocks with minimalist designs add a touch of elegance to any room. The minimum price for such clocks is 1,000 INR, with listed prices starting from 1,500 INR."
+            },
+            {
+                "User": "Hmm, the listed price is a bit high for a clock. Can you offer any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 15% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds reasonable. Does it come with a warranty?",
+                "AI Chatbot": "Yes, all our wall clocks come with a standard one-year warranty for any manufacturing defects. You can shop with confidence knowing that your purchase is protected."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Wonderful! Let me process your order with the discounted price of 1,275 INR, including the warranty. Thank you for choosing us for your wall clock needs!"
+            }
+        ]
+    },
+    {
+        "Cupboard": [
+            {
+                "User": "Hello! I'm interested in buying a new cupboard for my bedroom.",
+                "AI Chatbot": "Hi there! We have a variety of cupboards available, ranging from wardrobes to storage cabinets. What size and style are you looking for?"
+            },
+            {
+                "User": "I need a large wardrobe with sliding doors and plenty of shelves.",
+                "AI Chatbot": "Great choice! Our large wardrobes with sliding doors and adjustable shelves offer ample storage space. The minimum price for such cupboards is 20,000 INR, with listed prices starting from 35,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected. Can you offer any discounts?",
+                "AI Chatbot": "Absolutely! I can offer you a discount of 25% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds like a good deal. Do you provide assembly services?",
+                "AI Chatbot": "Yes, we offer assembly services for all our cupboards at an additional cost. Our professional team will ensure that your cupboard is assembled correctly and ready to use."
+            },
+            {
+                "User": "Great! I'll proceed with the purchase.",
+                "AI Chatbot": "Fantastic! Let me process your order with the discounted price of 26,250 INR. Thank you for choosing us for your cupboard needs!"
+            }
+        ]
+    },
+    {
+        "Mattress": [
+            {
+                "User": "Hi! I'm in need of a new mattress for my bed.",
+                "AI Chatbot": "Hello! We have a variety of mattresses available, ranging from memory foam to spring mattresses. What size and firmness level are you looking for?"
+            },
+            {
+                "User": "I need a queen-size mattress with medium firmness.",
+                "AI Chatbot": "Great choice! Our queen-size mattresses with medium firmness provide optimal comfort and support. The minimum price for such mattresses is 10,000 INR, with listed prices starting from 15,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected. Can you offer any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 15% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds reasonable. Do you offer a trial period for the mattress?",
+                "AI Chatbot": "Yes, we offer a 30-day trial period for all our mattresses. If you're not satisfied with your purchase, you can return it for a full refund."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Wonderful! Let me process your order with the discounted price of 12,750 INR. Thank you for choosing us for your mattress needs!"
+            }
+        ]
+    },
+    {
+        "Curtain": [
+            {
+                "User": "Hi! I'm interested in buying curtains for my living room.",
+                "AI Chatbot": "Hello! We have a variety of curtains available, ranging from sheer to blackout curtains. What color and length are you looking for?"
+            },
+            {
+                "User": "I need beige blackout curtains for my windows.",
+                "AI Chatbot": "Great choice! Our beige blackout curtains provide privacy and block out sunlight effectively. The minimum price for such curtains is 500 INR per panel, with listed prices starting from 800 INR."
+            },
+            {
+                "User": "Hmm, the listed price seems a bit high for curtains. Can you offer any discounts?",
+                "AI Chatbot": "Absolutely! I can offer you a discount of 10% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds like a good deal. Do you provide installation services?",
+                "AI Chatbot": "Yes, we offer installation services for all our curtains at an additional cost. Our professional team will ensure that your curtains are hung correctly and look great."
+            },
+            {
+                "User": "Great! I'll proceed with the purchase.",
+                "AI Chatbot": "Fantastic! Let me process your order with the discounted price of 720 INR per panel. Thank you for choosing us for your curtain needs!"
+            }
+        ]
+    },
+    {
+        "Fan": [
+            {
+                "User": "Hello! I'm looking to buy a new ceiling fan for my home.",
+                "AI Chatbot": "Hi there! We have a variety of ceiling fans available, ranging from standard to decorative designs. What size and style are you interested in?"
+            },
+            {
+                "User": "I need a large ceiling fan with a modern design.",
+                "AI Chatbot": "Great choice! Our large ceiling fans with modern designs provide efficient cooling and complement any decor. The minimum price for such fans is 2,000 INR, with listed prices starting from 3,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected. Can you offer any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 20% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds reasonable. Do you provide installation services?",
+                "AI Chatbot": "Yes, we offer installation services for all our ceiling fans at an additional cost. Our experienced technicians will ensure that your fan is installed safely and correctly."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Wonderful! Let me process your order with the discounted price of 2,400 INR. Thank you for choosing us for your ceiling fan needs!"
+            }
+        ]
+    },
+    {
+        "Arvind": [
+            {
+                "User": "Hello! I'm interested in buying a gift for my friend Arvind.",
+                "AI Chatbot": "Hi there! We have a variety of gift options available, ranging from electronics to accessories. What does Arvind like?"
+            },
+            {
+                "User": "He's a fan of gadgets and tech. Do you have any recommendations?",
+                "AI Chatbot": "Certainly! Our selection of gadgets includes smartwatches, wireless earbuds, and portable speakers. The minimum price for such gadgets is 2,000 INR, with listed prices starting from 3,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected for a gift. Can you offer any discounts?",
+                "AI Chatbot": "Absolutely! I can offer you a discount of 15% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds like a good deal. Can you gift-wrap it for me?",
+                "AI Chatbot": "Yes, we offer gift-wrapping services for all our products at no additional cost. Your gift will be beautifully wrapped and ready to present to Arvind."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Fantastic! Let me process your order with the discounted price of 2,550 INR, including gift-wrapping. Thank you for choosing us for your gift needs!"
+            }
+        ]
+    },
+    {
+        "Towel": [
+            {
+                "User": "Hello! I'm looking to buy some new towels for my bathroom.",
+                "AI Chatbot": "Hi there! We have a variety of towels available, ranging from bath towels to hand towels. What size and material are you interested in?"
+            },
+            {
+                "User": "I need large bath towels made of soft, absorbent material.",
+                "AI Chatbot": "Great choice! Our bath towels are made of high-quality cotton and provide luxurious comfort. The minimum price for such towels is 300 INR each, with listed prices starting from 500 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected for towels. Can you offer any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 10% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds reasonable. Do you offer bulk discounts?",
+                "AI Chatbot": "Yes, we offer bulk discounts for larger quantities of towels. The more you buy, the more you save!"
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Wonderful! Let me process your order with the discounted price of 450 INR each for the bath towels. Thank you for choosing us for your towel needs!"
+            }
+        ]
+    },
+    {
+        "Chair": [
+            {
+                "User": "Hi! I'm interested in buying a new chair for my home office.",
+                "AI Chatbot": "Hello! We have a variety of chairs available, ranging from ergonomic office chairs to stylish accent chairs. What style and features are you looking for?"
+            },
+            {
+                "User": "I need an ergonomic chair with lumbar support and adjustable armrests.",
+                "AI Chatbot": "Great choice! Our ergonomic chairs are designed for comfort and support during long hours of work. The minimum price for such chairs is 5,000 INR, with listed prices starting from 8,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected for a chair. Can you offer any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 15% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds like a good deal. Do you offer assembly services?",
+                "AI Chatbot": "Yes, we offer assembly services for all our chairs at an additional cost. Our professional team will ensure that your chair is assembled correctly and ready to use."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Fantastic! Let me process your order with the discounted price of 6,800 INR. Thank you for choosing us for your chair needs!"
+            }
+        ]
+    },
+    {
+        "Speakers": [
+            {
+                "User": "Hi! I'm interested in buying a new set of speakers for my home entertainment system.",
+                "AI Chatbot": "Hello! We have a variety of speakers available, ranging from bookshelf speakers to soundbars. What type of speakers are you looking for?"
+            },
+            {
+                "User": "I need a pair of bookshelf speakers with crisp, clear audio quality.",
+                "AI Chatbot": "Great choice! Our bookshelf speakers deliver exceptional audio performance in a compact design. The minimum price for such speakers is 3,000 INR per pair, with listed prices starting from 5,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected for speakers. Can you offer any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 10% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds reasonable. Do you provide installation services?",
+                "AI Chatbot": "Yes, we offer installation services for all our speakers at an additional cost. Our experienced technicians will ensure that your speakers are set up correctly for optimal sound quality."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Wonderful! Let me process your order with the discounted price of 4,500 INR per pair. Thank you for choosing us for your speaker needs!"
+            }
+        ]
+    },
+    {
+        "Induction": [
+            {
+                "User": "Hello! I'm interested in buying an induction cooktop for my kitchen.",
+                "AI Chatbot": "Hi there! We have a variety of induction cooktops available, ranging from single to multi-burner models. What size and features are you looking for?"
+            },
+            {
+                "User": "I need a double-burner induction cooktop with touch controls.",
+                "AI Chatbot": "Great choice! Our double-burner induction cooktops offer fast and efficient cooking performance. The minimum price for such cooktops is 4,000 INR, with listed prices starting from 6,000 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected for a cooktop. Can you offer any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 15% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds like a good deal. Is it easy to clean?",
+                "AI Chatbot": "Yes, our induction cooktops feature smooth glass surfaces that are easy to clean with a damp cloth. You'll spend less time on maintenance and more time enjoying your meals."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Fantastic! Let me process your order with the discounted price of 5,100 INR. Thank you for choosing us for your induction cooktop needs!"
+            }
+        ]
+    },
+    {
+        "Pan": [
+            {
+                "User": "Hi! I'm interested in buying a new frying pan for my kitchen.",
+                "AI Chatbot": "Hello! We have a variety of frying pans available, ranging from non-stick to cast iron. What size and material are you interested in?"
+            },
+            {
+                "User": "I need a non-stick frying pan with a diameter of at least 10 inches.",
+                "AI Chatbot": "Great choice! Our non-stick frying pans make cooking and cleanup a breeze. The minimum price for such pans is 500 INR, with listed prices starting from 800 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected for a frying pan. Can you offer any discounts?",
+                "AI Chatbot": "Absolutely! I can offer you a discount of 10% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds reasonable. Is it dishwasher safe?",
+                "AI Chatbot": "Yes, our non-stick frying pans are dishwasher safe for easy cleanup. You can spend less time scrubbing and more time enjoying your meals."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Wonderful! Let me process your order with the discounted price of 720 INR. Thank you for choosing us for your frying pan needs!"
+            }
+        ]
+    },
+    {
+        "Shoes": [
+            {
+                "User": "Hi! I'm interested in buying a new pair of shoes.",
+                "AI Chatbot": "Hello! We have a variety of shoes available, ranging from sneakers to dress shoes. What style and size are you looking for?"
+            },
+            {
+                "User": "I need a pair of running shoes in size 9.",
+                "AI Chatbot": "Great choice! Our running shoes offer comfort and support for all your athletic activities. The minimum price for such shoes is 1,000 INR, with listed prices starting from 1,500 INR."
+            },
+            {
+                "User": "Hmm, the listed price is higher than I expected for shoes. Can you offer any discounts?",
+                "AI Chatbot": "Certainly! I can offer you a discount of 20% off the listed price. How does that sound?"
+            },
+            {
+                "User": "That sounds like a good deal. Are they suitable for long-distance running?",
+                "AI Chatbot": "Yes, our running shoes are designed for long-distance running and provide cushioning and stability to keep you comfortable mile after mile."
+            },
+            {
+                "User": "Great! I'll go ahead and make the purchase.",
+                "AI Chatbot": "Fantastic! Let me process your order with the discounted price of 1,200 INR. Thank you for choosing us for your shoe needs!"
+            }
+        ]
+    },
+    {
+        "Sofa Set": [
+            {
+                "User": "Hi there! I'm interested in purchasing a sofa set.",
+                "AI Chatbot": "Hello! I'd be happy to assist you with that. Our sofa sets are available in a variety of styles and designs. Can you provide me with any specific requirements or preferences you have in mind?"
+            },
+            {
+                "User": "I'm looking for something modern and comfortable, but I also want to make sure it fits within my budget.",
+                "AI Chatbot": "Of course! Our sofa sets range in price, but let me assure you, we have options to fit every budget. Our minimum price for sofa sets is 30,000 INR and the listed price starts from 50,000 INR. How does that sound to you?"
+            },
+            {
+                "User": "Hmm, that sounds a bit higher than what I was expecting. Can you offer any discounts?",
+                "AI Chatbot": "Absolutely! I understand the importance of finding the right sofa set at the right price. Based on our conversation, I can offer you a special discount. How about I reduce the listed price by 10%?"
+            },
+            {
+                "User": "That's much better! I think I'm ready to make the purchase.",
+                "AI Chatbot": "Fantastic! I'll go ahead and process your order at the discounted price of 45,000 INR. Thank you for choosing us for your furniture needs. Is there anything else I can assist you with?"
+            },
+            {
+                "User": "No, that's all for now. Thank you for your help!",
+                "AI Chatbot": "You're welcome! If you have any further questions or need assistance in the future, feel free to reach out. Have a great day!"
+            }
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="css/styles.css" type="text/css">
+
+  <title>Nino - AI Chatbot</title>
+
+</head>
+
+<body>
+  <div class="loading">
+    <div class="spinner-border" role="status"></div>
+    <div class="loading-text">Loading...</div>
+  </div>
+
+  <div class="auth login" style="display: none;">
+    <form>
+      <h2 class="text-center">Log in</h2>
+      <div class="form-group">
+        <input id="login_email" type="email" class="form-control" placeholder="Email" required="required">
+      </div>
+      <div class="form-group">
+        <input id="login_password" type="password" class="form-control" placeholder="Password" required="required">
+      </div>
+      <div class="form-group">
+        <button type="submit" class="btn btn-block">Log In</button>
+      </div>
+      <div class="clearfix">
+        <p class="text-center signup_link">Sign Up</p>
+      </div>
+    </form>
+  </div>
+
+  <div class="auth signup" style="display: none;">
+    <form>
+      <h2 class="text-center">Sign Up</h2>
+      <div class="form-group">
+        <input id="signup_email" type="email" class="form-control" placeholder="Email" required="required">
+      </div>
+      <div class="form-group">
+        <input id="signup_password" type="password" class="form-control" placeholder="Password" required="required">
+      </div>
+      <div class="form-group">
+        <button type="submit" class="btn btn-block">Sign Up</button>
+      </div>
+      <div class="clearfix">
+        <p class="text-center login_link">Log in</p>
+      </div>
+    </form>
+  </div>
+
+  <div class="logged" style="display: none;">
+    <li class="dropdown" style="list-style: none;">
+      <a href="#" class="dropdown-toggle userOptions" data-toggle="dropdown"><span></span> <b class="caret"></b></a>
+      <ul class="dropdown-menu">
+        <li class="logout_button">Logout</li>
+      </ul>
+    </li>
+
+    <div class="chat_window">
+      <div class="top_menu">
+        <div class="title">Nino</div>
+        <button class="btn edit_answer">
+          <i class="material-icons">edit</i>
+        </button>
+      </div>
+  
+      <ul class="messages"></ul>
+  
+      <div class="bottom_wrapper clearfix message_area">
+        <div class="message_input_wrapper">
+          <input class="message_input" placeholder="Type a message" />
+        </div>
+        <div class="send_message">
+          <div class="icon"></div>
+          <div class="text">Send</div>
+        </div>
+      </div>
+  
+      <div class="bottom_wrapper clearfix training_area" style="display: none;">
+        <div class="message_input_wrapper">
+          <input class="train_input" placeholder="Type a good answer" />
+        </div>
+        <div class="send_train">
+          <div class="icon"></div>
+          <div class="text">Train</div>
+        </div>
+        <div class="cancel">
+          <div class="icon"></div>
+          <div class="text">Cancel</div>
+        </div>
+      </div>
+    </div>
+    <div class="hello_template">
+      <li class="hello">
+        <div class="edit_icon">
+          <i class="material-icons">edit</i>
+        </div>
+        <div class="hello_message">
+          Welcome to Nino's AI chat, click the edit button to change Nino's answer and teach her how to learn!
+        </div>
+      </li>
+    </div>
+    <div class="message_template">
+      <li class="message">
+        <!-- <div class="avatar"></div> -->
+        <div class="text_wrapper">
+          <div class="text"></div>
+        </div>
+      </li>
+    </div>
+  </div>
+
+  <!-- JavaScript -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-database.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-auth.js"></script>
+  <script src="https://unpkg.com/brain.js@2.0.0-beta.2/dist/brain-browser.min.js"></script>
+  <script type="text/javascript" src="js/config.js"></script>
+  <script type="text/javascript" src="js/scripts.js"></script>
+</body>
+
+</html>
