@@ -2,13 +2,17 @@
 
 ## 6th semester B.Tech Project by:
 Ishan Upadhyaya, 112115064
+
 Vinit Agarwal, 112115173
+
 Arvind Khandelwal, 112115073
+
 Amaan Parvez, 112115018
+
 Shravani Khade, 112115149
 
 ## Supervisor:  
-## Dr. Meenakshi Choudhary
+### Dr. Meenakshi Choudhary
 
 ## Introduction
 In the fast-paced world of e-commerce, negotiation is crucial for transactions, spanning from major deals to everyday purchases. However, integrating negotiation into online platforms faces reasoning hurdles. 
